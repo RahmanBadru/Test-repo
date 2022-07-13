@@ -1,1 +1,15 @@
 testing
+{
+    "type": "icmp",
+    "Id": "quickteller-app",
+    "Name": "quick",
+    "Hosts": "172.12.32.50",
+    "Schedule": "100",
+    "Mode": "any",
+    "Timeout": 90,
+    "Enabled": true,
+    "IPV4": true,
+    "IPV6": true,
+    "SSL": null,
+    "Check": null
+}
