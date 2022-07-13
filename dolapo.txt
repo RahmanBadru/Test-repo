@@ -12,4 +12,17 @@ testing
     "IPV6": true,
     "SSL": null,
     "Check": null
+}{
+    "type": "icmp",
+    "Id": "quickteller-app",
+    "Name": "quick",
+    "Hosts": "172.12.32.50",
+    "Schedule": "90",
+    "Mode": "any",
+    "Timeout": 80,
+    "Enabled": true,
+    "IPV4": true,
+    "IPV6": true,
+    "SSL": null,
+    "Check": null
 }
