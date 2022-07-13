@@ -39,7 +39,7 @@ testing
     "SSL": null,
     "Check": null
 }{
-    "type": "http",
+    "type": "x",
     "Id": "purepay-app",
     "Name": "purepay",
     "Hosts": "191.168.0.45",
