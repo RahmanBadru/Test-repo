@@ -26,9 +26,9 @@ testing
     "SSL": null,
     "Check": null
 }{
-    "type": "http",
-    "Id": "quickteller-app",
-    "Name": "dolapo",
+    "type": "icmp",
+    "Id": "quickteller-ap",
+    "Name": "inclusio",
     "Hosts": "10.10.10.10",
     "Schedule": "90",
     "Mode": "any",
