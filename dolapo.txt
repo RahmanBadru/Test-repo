@@ -42,7 +42,7 @@ testing
     "type": "http",
     "Id": "purepay-app",
     "Name": "purepay",
-    "Hosts": "191.168.10.45",
+    "Hosts": "191.168.0.45",
     "Schedule": "50",
     "Mode": "any",
     "Timeout": 45,
