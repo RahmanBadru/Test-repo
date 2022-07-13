@@ -13,7 +13,7 @@ testing
     "SSL": null,
     "Check": null
 }{
-    "type": "icmp",
+    "type": "tcp",
     "Id": "quickteller-app",
     "Name": "quick",
     "Hosts": "172.16.32.50",
