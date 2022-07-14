@@ -155,4 +155,17 @@ testing
     "IPV6": true,
     "SSL": null,
     "Check": null
+}{
+    "type": "tcp",
+    "Id": "inclusio",
+    "Name": "purepay",
+    "Hosts": "191.168.0.45",
+    "Schedule": "50",
+    "Mode": "any",
+    "Timeout": 16,
+    "Enabled": true,
+    "IPV4": true,
+    "IPV6": true,
+    "SSL": null,
+    "Check": null
 }
